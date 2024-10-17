@@ -1,5 +1,4 @@
-# projeto-podcast-com-IA
-# 📚 **Projeto Podcast Gerado por I.A.s**
+# 🎙️ **Projeto Podcast Gerado por I.A.s**
 
 Este projeto consiste na criação de um Podcast sobre **Back end JAVA**, utilizando tecnologias de inteligência artificial para gerar conteúdo e organizar o material de forma didática.
 
@@ -9,7 +8,7 @@ Este projeto consiste na criação de um Podcast sobre **Back end JAVA**, utiliz
 
 - 🤖 **ChatGPT**: Utilizado para gerar o roteiro e conteúdo técnico para o Podcast.
 - 💻 **Microsoft Copilot**: Utilizado na criação e edição de Imagens geradas por Ia.
-- 🖼️ **ElevenLabs**: Usado para gerar a voz para narrar o conteúdo do Podcast.
+- 🎙️ **ElevenLabs**: Usado para gerar a voz para narrar o conteúdo do Podcast.
 
 ## 📝 **Prompts Utilizados**
 
