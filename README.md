@@ -2,7 +2,7 @@
 
 Este projeto consiste na criação de um Podcast sobre **Back end JAVA**, utilizando tecnologias de inteligência artificial para gerar conteúdo e organizar o material de forma didática.
 
-[ebook java.pdf](https://github.com/viniciusoliveira-27/Projeto-Ebook-com-IA/blob/9481cb50f1a04971b790db2f2dcf51832885563d/ebook%20java.pdf)
+[ep 1 piloto.mp3](https://github.com/viniciusoliveira-27/projeto-podcast-com-IA/blob/4112c498618663b4552900a5f12e835fdce78700/output/Ep%2001%20Piloto.mp3)
 
 ## 🚀 **Tecnologias Utilizadas**
 
